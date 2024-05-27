@@ -48,7 +48,7 @@ const shamina = {
             scrumban: ["Kanban", "Scrum"],
         },
         teamManagement 🏆: {
-            native: ["Pair Coding", "Upskilling", "Eliminate Blockers", "Requirement Planning", "Requirement Reviews", "Architecture and Design"]
+            sqadUpkeep: ["Pair Coding", "Upskilling", "Eliminate Blockers", "Requirement Planning", "Requirement Reviews", "Architecture and Design"]
         },
         communities 👩‍👩‍👧‍👧: ["Employment Equity SA", "Women in Tech LNG"],
         books 📚: ["Accelerate", "Team Topologies"]
