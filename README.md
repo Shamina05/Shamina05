@@ -39,6 +39,24 @@ I am Shamina Maharaj! 😃. Living in KZN, South Africa 🌊 and currently a squ
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+```javascript
+const shamina = {
+    pronouns 🙋‍♀️: "She" | "Her",
+    askMeAbout 🤔: ["web dev", "tech", "microservices", "azure cloud", ".net"],
+    theDaytoDay 👾: {
+        methodology 💡: {
+            scrumban: ["Kanban", "Scrum"],
+        },
+        teamManagement 🏆: {
+            native: ["Pair Coding", "Upskilling", "Eliminate Blockers", "Requirement Planning", "Requirement Reviews", "Architecture and Design"]
+        },
+        communities 👩‍👩‍👧‍👧: ["Employment Equity SA", "Women in Tech LNG"],
+        books 📚: ["Accelerate", "Team Topologies"]
+    },
+    currentFocus 🧙‍♀️: "Learning CI/CD, Cloud Migration and really trying to get rid of legacy systems!!🙄",
+};
+```
+
 ![Shamina's github stats](https://github-readme-stats.vercel.app/api?username=Shamina05&show_icons=true)
 
 
